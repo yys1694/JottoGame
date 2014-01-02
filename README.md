@@ -13,5 +13,6 @@ JottoGame
 <li> Get all of the source codes </li>
 <li> Navigate to the source folder with terminal, and type <br>
 <pre> make run </pre> to start the game! </li>
+</ol>
 
 <h5> Hope you enjoy! </h5>
