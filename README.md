@@ -1,9 +1,10 @@
 JottoGame
 =========
 
-Basic Word Game
-  Implemented with Java based on MVC architecture
-  Simple GUI interface
-  Support 4 different game level difficulties
-  Can play game with makefile provided
-	Type "make run" to run
+Basic Word Game <br>
+  Implemented with Java based on MVC architecture <br>
+  Simple GUI interface <br>
+  Support 4 different game level difficulties <br>
+  Can play game with makefile provided <br>
+  Type "make run" to run <br>
+  Hope you enjoy! 
